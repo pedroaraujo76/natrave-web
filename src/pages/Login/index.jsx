@@ -26,9 +26,7 @@ export const Login = () => {
                     password: values.password
                 }
             })
-
             setAuth(res.data)
-
         },
         initialValues: {
             email: '',
