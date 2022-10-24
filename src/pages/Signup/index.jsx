@@ -57,7 +57,7 @@ export const Signup = () => {
                 <h2 className="text-xl font-bold">Crie sua conta</h2>
                 </div>
 
-                <div className='container text-x1 font-bold max-w-5xl flex justify-left p-2'>
+                <div className='container text-x1 font-bold max-w-5xl flex justify-left'>
                     *Após criar sua conta, retorne a tela de login
                 </div>
 
